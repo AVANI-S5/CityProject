@@ -1,0 +1,27 @@
+button
+{
+    padding: auto;
+    margin-bottom: 10px;
+    border-radius: 0.5cap;
+    background-color: rgb(123, 123, 239);
+    
+}
+.city
+{
+    background-color: rgb(151, 206, 206);
+}
+
+.cityname
+{
+    
+    background-color: rgb(188, 188, 209);
+    margin-bottom: 10px;
+    border-radius: 0.5cap;
+    padding: 0;
+    list-style-type: none;
+    width: 500px;
+    /* width: 500px;
+    height: 500px;
+     */
+}
+
